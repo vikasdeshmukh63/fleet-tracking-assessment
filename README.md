@@ -73,7 +73,7 @@ These are just suggestions - you're welcome to implement real-time simulation us
 
 Your submission will be evaluated based on:
 
-- **Real-time Processing**: Effectiveness in simulating real-time fleet tracking
+- **Real-time Processing**: Effectiveness in simulating and consuming real-time fleet tracking events
 - **Dashboard Design**: Clarity, aesthetics, and usability of the interface
 - **Technical Implementation**: Code quality, performance, and architecture decisions
 - **Data Insights**: Ability to present meaningful trip and fleet insights
