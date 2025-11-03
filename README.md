@@ -46,14 +46,14 @@ You have complete creative freedom in choosing what metrics to display, how to v
 
 ### Real-time Data Simulation:
 
-Since the trip data contains timestamps, you'll need to simulate real-time behavior. Here are some approaches you can use:
+Since the trip data contains timestamps, you'll need to simulate real-time behavior. Here are some implementation hints (feel free to use any other approach you prefer):
 
 - **Local Interval Function**: Use `setInterval()` or similar to process events based on their timestamps
 - **Streaming API**: Create a mock API endpoint that serves events in real-time sequence
 - **Playback Controls**: Allow users to control the simulation speed (1x, 5x, 10x speed)
 - **Time-based Processing**: Filter and display events as if they're happening "now" based on simulation time
 
-Choose the approach that best demonstrates your technical skills and creates the most engaging user experience.
+These are just suggestions - you're welcome to implement real-time simulation using any method that works best for your chosen tech stack and demonstrates your skills effectively.
 
 ### Technical Requirements:
 
